@@ -9,3 +9,16 @@ Read the [hover tutorial](https://github.com/go-flutter-desktop/hover) to run yo
 
 If you want more in-depth information about go-flutter, read the [wiki](https://github.com/go-flutter-desktop/go-flutter/wiki).
 
+## Version compatibility
+
+### Flutter version
+
+Flutter itself is a relatively young project. Its framework and engine are updated often. The go-flutter project tries to stay compatible with the [beta channel](https://github.com/flutter/flutter/wiki/Flutter-build-release-channels) of Flutter.
+
+### Go version
+
+Updating Go is simple and Go [seldomly has backwards-incompatible changes](https://golang.org/doc/go1compat). This project remains compatible with the [latest Go stable release](https://golang.org/dl/).
+
+### GLFW version
+
+This project uses go-gl/glfw for GLFW v3.2.
