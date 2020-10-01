@@ -24,7 +24,7 @@ Updating Go is simple and Go [seldomly has backwards-incompatible changes](https
 
 This project uses go-gl/glfw for GLFW v3.2.
 
+
 ## For Run This Project
   open terminal or cmd prompt and go to the project directory and run this project using 
   - <kbd>hover run</kbd>
-
